@@ -1,5 +1,5 @@
 # Specific Profiles of New-Onset (NOSE) vs Non-Inaugural (NISE) Status Epilepticus: From Diagnosis to One-Year Outcome
-The notebook _**Epicea.ipynb**_ in this directory, presents the data and the analyses performed for the article "Specific Profiles of New-Onset (NOSE) vs Non-Inaugural (NISE) Status Epilepticus: From Diagnosis to One-Year Outcome", Frontiers in Neurology (03 February 2023).
+The notebook _**Epicea_analyses.ipynb**_ in this directory, presents the data and the analyses performed for the article "Specific Profiles of New-Onset (NOSE) vs Non-Inaugural (NISE) Status Epilepticus: From Diagnosis to One-Year Outcome", Frontiers in Neurology (03 February 2023).
 
 ## Authors:
 - Marie Benaiteau, MD [1,2*]
