@@ -21,7 +21,7 @@ Despite acute causal brain lesions, the novelty related to its inaugural nature 
     ```
     
 ## 📝 Usage
-The notebook [epicea_analyses.ipynb](https://github.com/LudovicGardy/Status_epilepticus/blob/main/Epicea_analyses.ipynb) presents the data and the analyses performed for the article [1].
+The notebook [analyses.ipynb](https://github.com/LudovicGardy/epicea_epilepsy/blob/main/analyses.ipynb) presents the data and the analyses performed for the article [1].
 
 ### Methods: statistical analyses
 To compare the NOSE and NISE groups, we used the Chi-2 Test for qualitative variables, except when the theoretical numbers were less than 5, in which case the Fisher Test was used. To compare quantitative variables, we used the Wilcoxon Test. To limit the risk of type-1 errors associated with multiple comparisons, we corrected the alpha values using the Bonferroni method. The alpha values to be considered are indicated below the figures or tables (in general, the alpha value = 0.05/90). Due to the inherent heterogeneity of clinical data and the multiple comparisons made, we considered “tendencies” for p-value <0.05 but above the corrected threshold. We only considered significant p-values below the corrected alpha-values. For post hoc analyses, a Tukey Test was computed (p-values automatically adjusted for multiple comparisons).
