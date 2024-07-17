@@ -5,6 +5,7 @@ __pycache__/
 .vs/
 .buffer/
 .ipynb_checkpoints/
+_archives/
 derivatives/
 program/.ipynb_checkpoints
 program/events_data

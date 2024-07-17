@@ -29,19 +29,7 @@ To compare the NOSE and NISE groups, we used the Chi-2 Test for qualitative vari
 To study the impact on outcome (mRS) at different timestamps for predictive factors such as the presence or absence of PMA, drug resistance or status epilepticus, we performed multiple linear regressions. We used linear mixed-effects models in which the variable "patient" was considered a random effect. The variables "measurement time" (baseline, first month, third month, twelfth month), drug resistance (1/0), with or without PMA (1/0) and new onset status epilepticus (1/0) were considered as fixed effects. Finally, Pearson correlations were performed. Corrected p-value was considered for the significance threshold for linear mixed-effect models and the Pearson correlation was 0.017 (0.05/3).
 
 ### Results
-
-#### Status epilepticus: 0 vs 1 - effect over time
-| ![Image1](images/image1.1.png) | ![Image2](images/image1.2.png) | ![Image3](images/image1.3.png) |
-|:---------------------:|:---------------------:|:---------------------:|
-
-#### MRI anomaly: 0 vs 1 - effect over time
-| ![Image1](images/image2.1.png) | ![Image2](images/image2.2.png) | ![Image3](images/image2.3.png) |
-|:---------------------:|:---------------------:|:---------------------:|
-
-
-#### Pharmacoresistance: 0 vs 1 - effect over time
-| ![Image1](images/image3.1.png) | ![Image2](images/image3.2.png) | ![Image3](images/image3.3.png) |
-|:---------------------:|:---------------------:|:---------------------:|
+![Image1](images/image1.jpg)
 
 ## 📚 References
 [1] Specific Profiles of New-Onset (NOSE) vs Non-Inaugural (NISE) Status Epilepticus: From Diagnosis to One-Year Outcome", Frontiers in Neurology (03 February 2023).
